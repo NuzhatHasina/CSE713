@@ -13,4 +13,4 @@ https://www.hindawi.com/journals/acisc/2023/2457898/
 Individual Submitter:
 19166010 Name Nuzhat Hasina
 
-I also correctly uploaded slide.PPT and report.PDF here.
+I also correctly uploaded "Facial Emotion Recognition and Classification Using the Convolutional Neural Network-10 (CNN-10).pptx" and "Report of Facial Emotion Recognition and Classification Using the Convolutional Neural Network-10 (CNN-10).pdf" here.
