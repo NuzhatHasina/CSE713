@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/nFi6DuPFRHQ
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/document/d/1-28CHHSn1SofTdkSjpPkulW93CC2rITpt4Lqfd18oTQ/edit
+https://docs.google.com/presentation/d/1pIN___F_C30IEgd7aTWaU9gFU7Oyjg2mCTsoiCqgrZk/edit
 
 Paper title:
 Facial Emotion Recognition and Classification Using the Convolutional Neural Network-10 (CNN-10)
